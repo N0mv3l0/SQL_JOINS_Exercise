@@ -1,15 +1,19 @@
 # SQL_JOINS_Exercise
 Extra practice exercise from BrightLearn portal
 
-This repository contains the completed SQL exercise submission.
+
 
 The repository includes the following files:
 
-The original exercise questions downloaded from the learning portal.
+--The original exercise questions downloaded from the Brighlearn portal.
+
 -- SQL queries developed and executed in Databricks to answer each question.
+
 -- A Word document containing screenshots of:
--- The SQL script used for each question.
--- The corresponding output tables generated from the queries.
+
+- The SQL script used for each question.
+
+- The corresponding output tables generated from the queries.
 
 What I learned:
 INNER JOIN: Returns only rows where the join condition is true on BOTH sides. Unmatched rows are 
